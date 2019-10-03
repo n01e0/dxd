@@ -63,7 +63,7 @@ void usage(const char *name) {
 | (_| |>  < (_| |\n\
  \\__,_/_/\\_\\__,_|\n\
                   \n\
-Usage: %s -ina directry\n\
+Usage: %s -bina directry\n\
 <options>\n\
     -b             :    binary dump\n\
     -i             :    inode of dest directory(or normal file).\n\
